@@ -7,7 +7,7 @@ As a problem solver, I sharpen my skills daily by solving algorithmic challenges
 
 I enjoy collaborating with teams on both tactical and strategic levels — from designing system architectures and database structures, to writing clean code and setting up proper workflows.  
 
-Some of the areas I’m diving deeper into include **SQL**, **real-time applications**. 
+Some of the areas I’m diving deeper into include **SQL**. 
 
 ---
 
