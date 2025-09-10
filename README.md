@@ -23,3 +23,8 @@ Some of the areas I’m diving deeper into include **SQL**.
 
 ---
 ✨ *"Code, Learn, Improve, Repeat."* ✨
+
+
+<img src="https://raw.githubusercontent.com/FADI3ad/FADI3ad/output/snake.svg" alt="Snake animation" />
+
+###
