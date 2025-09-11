@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hello World im FADI EMAD 👋
 
 I’m Fady Emad, a Computer Science student and Backend Developer passionate about building efficient and scalable web applications.  
 With a focus on **Laravel (PHP)**, I design and develop robust backend systems, implement APIs, and structure clean architectures that help projects grow smoothly.  
